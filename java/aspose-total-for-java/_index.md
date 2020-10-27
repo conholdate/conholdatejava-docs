@@ -1,7 +1,5 @@
 ---
 title: "Aspose.Total for Java"
-type: docs
-url: /aspose-total-for-java/
 aliases: 
     - /net/aspose-words-for-java/
 	- /net/aspose-cells-for-java/
@@ -17,6 +15,8 @@ aliases:
 	- /net/aspose-cad-for-java/
 	- /net/aspose-html-for-java/
 	- /net/aspose-ocr-for-java/
+type: docs
+url: /aspose-total-for-java/
 weight: 10
 ---
 
