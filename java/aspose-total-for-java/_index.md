@@ -2,19 +2,19 @@
 title: "Aspose.Total for Java"
 aliases: 
     - /net/aspose-words-for-java/
-	- /net/aspose-cells-for-java/
-	- /net/aspose-pdf-for-java/
-	- /net/aspose-slides-for-java/
-	- /net/aspose-email-for-java/
-	- /net/aspose-barCode-for-java/
-	- /net/aspose-imaging-for-java/
-	- /net/aspose-tasks-for-java/
-	- /net/aspose-diagram-for-java/
-	- /net/aspose-note-for-java/
-	- /net/aspose-3d-for-java/
-	- /net/aspose-cad-for-java/
-	- /net/aspose-html-for-java/
-	- /net/aspose-ocr-for-java/
+    - /net/aspose-cells-for-java/
+    - /net/aspose-pdf-for-java/
+    - /net/aspose-slides-for-java/
+    - /net/aspose-email-for-java/
+    - /net/aspose-barCode-for-java/
+    - /net/aspose-imaging-for-java/
+    - /net/aspose-tasks-for-java/
+    - /net/aspose-diagram-for-java/
+    - /net/aspose-note-for-java/
+    - /net/aspose-3d-for-java/
+    - /net/aspose-cad-for-java/
+    - /net/aspose-html-for-java/
+    - /net/aspose-ocr-for-java/
 type: docs
 url: /aspose-total-for-java/
 weight: 10
