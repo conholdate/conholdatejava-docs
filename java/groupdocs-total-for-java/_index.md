@@ -2,14 +2,14 @@
 title: "GroupDocs.Total for Java"
 aliases: 
     - /net/groupdocs-annotation-for-java/
-	- /net/groupdocs-assembly-for-java/
-	- /net/groupdocs-comparison-for-java/
-	- /net/groupdocs-conversion-for-java/
-	- /net/groupdocs-editor-for-java/
-	- /net/groupdocs-metadata-for-java/
-	- /net/groupdocs-signature-for-java/
-	- /net/groupdocs-viewer-for-java/
-	- /net/groupdocs-watermark-for-java/
+    - /net/groupdocs-assembly-for-java/
+    - /net/groupdocs-comparison-for-java/
+    - /net/groupdocs-conversion-for-java/
+    - /net/groupdocs-editor-for-java/
+    - /net/groupdocs-metadata-for-java/
+    - /net/groupdocs-signature-for-java/
+    - /net/groupdocs-viewer-for-java/
+    - /net/groupdocs-watermark-for-java/
 type: docs
 url: /groupdocs-total-for-java/
 weight: 20
