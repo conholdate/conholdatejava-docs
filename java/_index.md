@@ -11,22 +11,21 @@ weight: 10
 
 **Welcome to Aspose.Words for Java**
 
-Aspose.Words for Java is a class library that enables your applications to perform a great range of document processing tasks. Aspose.Words supports DOC, DOCX, RTF, HTML, OpenDocument, PDF, XPS, EPUB and other formats. With Aspose.Words you can generate, modify, convert, render and print documents without using Microsoft Word®.
+Create, edit, convert, render and print Word documents including DOC, DOCX, RTF, HTML, OpenDocument and many other without using Microsoft Word® in your Java desktop and web applications.
 
 {{% /alert %}} 
 ## **Aspose.Words for Java Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.Words for Java Online Documentation](https://docs.aspose.com/display/wordsjava/)
-- [Aspose.Words for Java Features](https://docs.aspose.com/display/wordsjava/Feature+Overview)
-- [Aspose.Words for Java Limitations](https://docs.aspose.com/display/wordsjava/What+Document+Features+are+Supported)
-- [Aspose.Words for Java Release Notes](https://docs.aspose.com/display/wordsjava/Aspose.Words+for+Java)
-- [Aspose.Words for Java Product Page](https://products.aspose.com/words/java)
-- [Download Aspose.Words for Java](https://artifact.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-words)
-- [Install Aspose.Words for Java from Maven Repository](https://docs.aspose.com/display/wordsjava/Installation)
-- [Aspose.Words for Java API Reference Guide](https://apireference.aspose.com/java/words)
+- [Aspose.Words for Java Online Documentation](https://docs.aspose.com/words/java/)
+- [Aspose.Words for Java Features](https://docs.aspose.com/words/java/features/)
+- - [Aspose.Words for Java Release Notes](https://docs.aspose.com/words/java/release-notes/)
+- [Aspose.Words for Java Product Page](https://products.aspose.com/words/java/)
+- [Download Aspose.Words for Java](https://downloads.aspose.com/words/java)
+- [Install Aspose.Words for Java from Maven Repository](https://docs.aspose.com/words/java/installation/)
+- [Aspose.Words for Java API Reference Guide](https://apireference.aspose.com/words/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-words/Aspose.Words-for-Java)
-- [Aspose.Words for Java Free Support Forum](https://forum.aspose.com/c/words)
+- [Aspose.Words for Java Free Support Forum](https://forum.aspose.com/c/words/8)
 - [Aspose.Words for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}} 
